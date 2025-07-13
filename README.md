@@ -1,4 +1,4 @@
-# 📊 Excel Sales Dashboard Project
+# 📊 Sales & Profit Dashboard Project
 
 ![Top Banner](top-banner.png)
 
