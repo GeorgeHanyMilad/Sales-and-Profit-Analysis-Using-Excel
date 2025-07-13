@@ -65,5 +65,5 @@ Working on this project helped me:
 
 ## 📷 Dashboard Preview
 
-![Dashboard Screenshot](dashboard-preview.png)  
-🔗 [Click to view full image](https://your-link-to-image.com/dashboard-preview.png)
+![Dashboard Screenshot](https://github.com/GeorgeHanyMilad/Sales-and-Profit-Analysis-Using-Excel/blob/master/Dashboard.jpg?raw=true)  
+🔗 [Click to view full image](https://github.com/GeorgeHanyMilad/Sales-and-Profit-Analysis-Using-Excel/blob/master/Dashboard.jpg?raw=true)
