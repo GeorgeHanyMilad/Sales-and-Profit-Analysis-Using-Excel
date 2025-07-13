@@ -1,6 +1,6 @@
 # 📊 Sales & Profit Dashboard Project
 
-![Top Banner](top-banner.png)
+![Top Banner](https://github.com/GeorgeHanyMilad/Sales-and-Profit-Analysis-Using-Excel/blob/master/Banner.jpg?raw=true)
 
 ---
 
